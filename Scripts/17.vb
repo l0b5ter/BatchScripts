@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "apipreferences.bat", 0, True
